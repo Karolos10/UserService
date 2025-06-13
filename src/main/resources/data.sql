@@ -1,5 +1,5 @@
-INSERT INTO users (id, name, email) VALUES
-(1, 'John Doe', 'john.doe@example.com'),
-(2, 'Jane Smith', 'jane.smith@example.com'),
-(3, 'Alice Johnson', 'alice.johnson@example.com'),
-(4, 'Bob Brown', 'bob.brown@example.com');
+INSERT INTO user (name, email) VALUES
+('John Doe', 'john.doe@example.com'),
+('Jane Smith', 'jane.smith@example.com'),
+('Alice Johnson', 'alice.johnson@example.com'),
+('Bob Brown', 'bob.brown@example.com');
